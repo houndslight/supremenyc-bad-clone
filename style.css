@@ -1,0 +1,14 @@
+@font-face {
+    font-family: nos;
+    src: url(../supremenyc-clone/assets/font/nimbus-mono.regular.otf);
+}
+
+h1 {
+    position: absolute;
+    top: 33.7%;
+    left: 49%;
+}
+
+clock {
+    text-align: center;
+}
